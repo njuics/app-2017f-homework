@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  MyHello
+//  CalculateOfChallvy
 //
-//  Created by Apple on 2017/9/18.
-//  Copyright © 2017年 future-vision ltd. All rights reserved.
+//  Created by Apple on 2017/10/9.
+//  Copyright © 2017年 NJU. All rights reserved.
 //
 
 import UIKit
